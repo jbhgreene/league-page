@@ -142,7 +142,7 @@ export const managers = [
       "tookOver": 2015, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Overseas (probably)", // (optional)
       "bio": "Player since 2013, took a break for 2014, then came back in 2015",
-      "photo": "/managers/myca (1).jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/chance (1).jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2013, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "dal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "rival": {
@@ -188,7 +188,7 @@ export const managers = [
         link: 4, // manager array number within this array, or null to link back to all managers page
         image: "/managers/sam (1).jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 6813, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 6790, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "philosophy": "Varies each season",
       "tradingScale": 10, // 1 - 10
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
