@@ -226,7 +226,7 @@
             <div class="infoSlot infoRebuild">
                 {#if manager.mode}
                     <div class="infoIcon">
-                        <img class="infoImg" src="/{manager.mode.replace(' ', '%20')}.png" alt="win now or rebuild"/>
+                        <img class="infoImg" src="https://sleepercdn.com/content/nfl/players/{viewManager.favoritePlayer}.jpg" alt="favorite player"/>
                     </div>
                     <div class="infoAnswer">
                         {manager.mode}
