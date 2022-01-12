@@ -140,7 +140,7 @@ export const managers = [
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Chance Givens",
       "tookOver": 2015, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Overseas (probably)", // (optional)
+      "location": "Austin, TX", // (optional)
       "bio": "Player since 2013, took a break for 2014, then came back in 2015",
       "photo": "/managers/chance (1).jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2013, // (optional) when did the manager start playing fantasy football
