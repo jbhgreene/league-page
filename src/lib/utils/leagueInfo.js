@@ -30,7 +30,7 @@ export const managers = [
       "bio": "Commissioner since 2013",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2011, // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "nep", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "rival": {
         name: "Tyler Bateman", // Can be anything (usually your rival's name)
         link: 2, // manager array number within this array, or null to link back to all managers page
