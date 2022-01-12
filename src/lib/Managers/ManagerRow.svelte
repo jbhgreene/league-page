@@ -233,7 +233,7 @@
                     </div>
                 {:else}
                     <div class="infoIcon question">
-                        <img class="infoImg" src="/managers/question.jpg" alt="favorite team"/>
+                        <img class="infoImg" src="https://sleepercdn.com/content/nfl/players/{viewManager.favoritePlayer}.jpg" alt="favorite player"/>
                     </div>
                 {/if}
             </div>
