@@ -1,3 +1,5 @@
+ <p>Please refer to the <a href="https://docs.google.com/document/d/1Xhsqib1ShEx-VLC3DfK3c7JlycKQTz8uxFiBs8HiiTM/edit?usp=sharing">League Constitution</a>.</p>
+    
 <!-- <script context="module">
 	export const prerender = true;
 </script>
