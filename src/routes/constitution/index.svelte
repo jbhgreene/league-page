@@ -63,7 +63,7 @@
         color: #777;
     }
 </style> 
-<p>Please refer to the <a href="https://docs.google.com/document/d/1Xhsqib1ShEx-VLC3DfK3c7JlycKQTz8uxFiBs8HiiTM/edit?usp=sharing">League Constitution</a>.</p>
+<h1> <p>Please refer to the <a href="https://docs.google.com/document/d/1Xhsqib1ShEx-VLC3DfK3c7JlycKQTz8uxFiBs8HiiTM/edit?usp=sharing">League Constitution</a>.</p> </h1>
     
 <!-- <script context="module">
 	export const prerender = true;
