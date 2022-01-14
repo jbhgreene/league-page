@@ -9,7 +9,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>Welcome to FLEX, the Fantasy League of EX-athletes. This is a 12-team league that was formed in 2013 by a group of high school buddies who wanted to continue their friendship and connection beyond high school after life in The Woodlands, Texas. This league is considered a money league, and all owners are expected to pay their league fee before the draft begins. This league is designed to be a competition between owners, but it is not a cut-throat league where anything goes. The rules described in the constitution are designed to act as a guideline for overall league play, and any disputes will be handled by the executive committee of the league. Please remember that the overall goal of this league is to have fun and enjoy the game of football and camaraderie.</p>
   <p>There have been some new faces throughout the years as some managers have also left but, despite that, the league has only gotten stronger. With more passionate managers, the competition has become more intense and more difficult each year.</p>
-  <p>While the ultimate prize is bragging rights and sending obnoxious texts to the rest of the league for the next year, the champion manager also walks away with $280.</p>
+  <p>While the ultimate prize is bragging rights and sending obnoxious texts to the rest of the league for the next year, the champion manager also walks away with $360.</p>
 `;
 
 /*   STEP 3   */
